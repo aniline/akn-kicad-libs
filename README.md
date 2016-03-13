@@ -9,6 +9,11 @@ alongside (with the same basename).
 ### akn_misc.lib:
 
 * DIODE_BRIDGE : Made it since the default kicad one was *huge*.
+* PUSH_BUTTON_NO : Normally Open, push button.
+* RJ11_PTH_STAGGER : RJ11 4C symbol. Defaults were huge.
+* RJ12_PTH_STAGGER : RJ12 6C + 2 symbol. Defaults were huge.
+* DISP_LED_MAT_8x8_COM_ANODE: 8x8 LED Display module, Common anode.
+* DISP_LED_MAT_8x8_COM_CAT: 8x8 LED Display module, Common cathode.
 
 ### akn_transformers.lib
 
